@@ -1,0 +1,42 @@
+body, h1, h2, h3, h4, ul, ol, li, p, a {
+    padding: 0;
+    border: 0;
+    margin: 0; 
+    font-size: 100%;
+    text-decoration: none;
+}
+
+body {
+    background: #e49414 url(images/background.jpg);
+    background-size: cover;
+}
+
+h1, h2, h3 {
+    text-align: center; 
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h1 a {
+    font-size: 20px; 
+    margin-bottom: 300px;
+    color: #555555;
+}
+
+h2 {
+    font-size: 300%; 
+    margin-top: 300px;
+    color: aqua;
+}
+
+h1 {
+    background-color: aliceblue;
+}
+
+.my-blog {
+    margin-bottom: 50px;
+}
+.thoughts {
+    font-size: 175%;
+    height: max-content;
+    color: aqua;
+}
